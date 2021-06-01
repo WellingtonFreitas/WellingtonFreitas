@@ -1,7 +1,7 @@
 
 ## Hey! Welcome to my profile!
 
-<img align="right" src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/WellingtonFreitas/WellingtonFreitas/344ce2c581a1c70020cc17a4f0c1b3f941eb7468/image/home-hero-illustration.svg" width="350"/>
 My name is Wellington Freitas
 
 I am a systems developer and have been working as a FullStack developer since 2017. 💻
